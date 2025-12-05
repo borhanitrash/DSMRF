@@ -16,6 +16,7 @@ Reliable online collision anticipation from monocular dashcam footage is a criti
 
 **Result:** DSMRF achieves a **mAP of 0.8977** on the challenging Nexar dataset, significantly outperforming 3D-CNN and pure Transformer baselines.
 
+![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F19186184%2Fe25107a6611b102ac587c07fcf39948f%2Fchrome_54w946rFmF.png?generation=1764946123496837&alt=media)
 ---
 
 ## 📊 Visual Results
