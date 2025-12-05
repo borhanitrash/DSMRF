@@ -1,4 +1,4 @@
-# DSMRF: Dual-Stream Masked-Recurrent Framework for Ego-Centric Collision Anticipation
+# DSMRF: A Dual-Stream Masked-Recurrent Framework for Ego-Centric Vehicular Crash Prediction
 
 **[Submitted to IEEE VTC2026-Spring]**
 
