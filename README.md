@@ -2,7 +2,7 @@
 
 **[Submitted to IEEE VTC2026-Spring]**
 
-This repository contains the official PyTorch implementation of the paper: **"DSMRF: A Dual-Stream Masked-Recurrent Framework for Ego-Centric Collision Anticipation in Real-World Vehicular Traffic"**.
+This repository contains the official PyTorch implementation of the paper: **"DSMRF: A Dual-Stream Masked-Recurrent Framework for Ego-Centric Vehicular Crash Prediction"**.
 
 Our framework achieves State-of-the-Art (SOTA) performance on the **Nexar Dashcam Collision Prediction Benchmark** by synergizing the fine-grained motion attention of **VideoMAE** with the temporal trajectory modeling of **CNN-BiGRU** networks.
 
