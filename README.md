@@ -76,6 +76,7 @@ Run the main script to train the model, evaluate on the test set, and generate a
 ```bash
 DSMRF.ipynb [Link](https://github.com/borhanitrash/DSMRF/blob/main/DSMRF.ipynb)
 ```
+The link for the Notebook : [Link](https://github.com/borhanitrash/DSMRF/blob/main/DSMRF.ipynb)
 
 ## 📈 Performance Summary
 
