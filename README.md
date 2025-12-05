@@ -89,10 +89,5 @@ Comparison against baselines on the Nexar Test Set (Held-out 20% split):
 | CNN-GRU | 0.5209 | 0.5334 | 0.5192 | 0.5101 | 0.5367 |
 | **DSMRF (Ours)** | **0.8977** | **0.9438** | **0.9040** | **0.8452** | **0.8984** |
 
-
-## ⚖️ License
-
-This project is licensed under the MIT License.
-
 ## 🙏 Acknowledgement
 We acknowledge the use of large-scale pre-trained models from [VideoMAE](https://github.com/MCG-NJU/VideoMAE) and [Torchvision](https://pytorch.org/vision).
